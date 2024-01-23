@@ -15,7 +15,7 @@ Mario Prototype Mimic
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=DdizzyMe_Mario-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=DdizzyMe_Mario-Project)
 
 # Clean Code :
-[Clean_Code](https://github.com/DdizzyMe/Mario-Project/blob/e0056be050eb60842abb5380c976039a44f2493e/cleandcodepdf.pdf)
+[Clean_Code](https://github.com/DdizzyMe/Mario-Project/blob/10922c0bdcfea6be06d44e2e0fa5fc973fcd9231/clean_code.pdf)
 
 # UML :
 UML diagram provides a visual representation of thr structure and function and interaction of the mario game.
