@@ -17,6 +17,8 @@ Mario Prototype Mimic
 # Clean Code :
 [Clean_Code](https://github.com/DdizzyMe/Mario-Project/blob/10922c0bdcfea6be06d44e2e0fa5fc973fcd9231/clean_code.pdf)
 
+[Cheat_Sheet](https://github.com/DdizzyMe/Mario-Project/blob/92b3d8ef23eecc710ecc84e963802aaed9b92b3d/cheatsheer.pdf)
+
 # UML :
 UML diagram provides a visual representation of thr structure and function and interaction of the mario game.
 The Diagram helps developers to understand the functionality and usability of the game.
