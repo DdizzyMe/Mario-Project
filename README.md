@@ -25,3 +25,12 @@ The Diagram helps developers to understand the functionality and usability of th
 
 # Code File :
  Here is the game code : [mario.py](https://github.com/DdizzyMe/Mario-Project/blob/059a7c01d2eef108d8abcf1db32b6326db39b3aa/mario.py)
+
+# Conclusion 
+This is a rough implementation of mario game/ trying to mimic mario game using python game. I am still to add a lot of game mechanics like adding coins , levels , enemies etc.
+
+ # License
+This project is privately owned by Varun Shah, a student at SRH Berlin University of Applied Sciences pursuing an MSc in Computer Science, Focused on Big Data and Artificial Intelligence.
+Contact Information:
+Name: Varun Shah
+Email: varunnaturals@gmail.com
