@@ -2,7 +2,9 @@
 Mario Prototype Mimic
 
 # Requirements Engineering Link : 
-https://trello.com/invite/b/nRZ8qUZv/ATTIb32510dd15c3c076e189deee9bd4f62fD4849449/mariodoppelganger
+[Screenshots](https://github.com/DdizzyMe/Mario-Project/blob/043e4daf163dda9f4d3306456a1bf2624e053a22/MarioDoppelganger%20_%20Trello.pdf)
+
+[Trello](https://trello.com/invite/b/nRZ8qUZv/ATTIb32510dd15c3c076e189deee9bd4f62fD4849449/mariodoppelganger)
 
 # Metrics
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DdizzyMe_Mario-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=DdizzyMe_Mario-Project)
