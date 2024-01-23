@@ -20,3 +20,6 @@ UML diagram provides a visual representation of thr structure and function and i
 The Diagram helps developers to understand the functionality and usability of the game.
 
 [UML](https://github.com/DdizzyMe/Mario-Project/blob/d602abdbfb32c60edbf1e33b8571417a00ee3753/uml%20diagram.png)
+
+# Code File :
+ Here is the game code : [mario.py](https://github.com/DdizzyMe/Mario-Project/blob/059a7c01d2eef108d8abcf1db32b6326db39b3aa/mario.py)
