@@ -26,6 +26,9 @@ The Diagram helps developers to understand the functionality and usability of th
 # Code File :
  Here is the game code : [mario.py](https://github.com/DdizzyMe/Mario-Project/blob/059a7c01d2eef108d8abcf1db32b6326db39b3aa/mario.py)
 
+# DDD :
+[DDD File](https://github.com/DdizzyMe/Mario-Project/blob/6bcda51e22d36b42c83472ba85dc8dcea9188714/DDD.pdf)
+
 # Functional Programming :
 [Functional Programming Example](https://github.com/DdizzyMe/Mario-Project/blob/111da9e48811a249912965f7fe1732dd7ff03b3e/pasta.py)
 
