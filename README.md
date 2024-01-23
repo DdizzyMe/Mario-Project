@@ -29,6 +29,23 @@ The Diagram helps developers to understand the functionality and usability of th
 # DDD :
 [DDD File](https://github.com/DdizzyMe/Mario-Project/blob/6bcda51e22d36b42c83472ba85dc8dcea9188714/DDD.pdf)
 
+# IDE :
+[Visual Studio](https://code.visualstudio.com/)
+
+I used Viusal Studio Code To Build This Project
+
+Here are some of my favourite visual studio shortcuts :
+> Copy Line Down/Up: Shift + Alt + Down/Up Arrow
+> Move Line Down/Up: Alt + Down/Up Arrow
+> Toggle Line Comment: Ctrl + /
+> Format Document: Shift + Alt + F
+> Start/Stop Debugging: F5
+> Commit Changes: Ctrl + Enter
+> Select All Occurrences of Word: Ctrl + Shift + L
+> Find: Ctrl + F
+> Replace: Ctrl + H
+> Find in Files: Ctrl + Shift + F
+
 # Functional Programming :
 [Functional Programming Example](https://github.com/DdizzyMe/Mario-Project/blob/111da9e48811a249912965f7fe1732dd7ff03b3e/pasta.py)
 
