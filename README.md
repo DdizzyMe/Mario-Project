@@ -11,3 +11,6 @@ https://trello.com/invite/b/nRZ8qUZv/ATTIb32510dd15c3c076e189deee9bd4f62fD484944
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DdizzyMe_Mario-Project&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DdizzyMe_Mario-Project)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=DdizzyMe_Mario-Project&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=DdizzyMe_Mario-Project)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=DdizzyMe_Mario-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=DdizzyMe_Mario-Project)
+
+# Clean Code :
+[Clean_Code](https://github.com/DdizzyMe/Mario-Project/blob/e0056be050eb60842abb5380c976039a44f2493e/cleandcodepdf.pdf)
