@@ -14,3 +14,9 @@ https://trello.com/invite/b/nRZ8qUZv/ATTIb32510dd15c3c076e189deee9bd4f62fD484944
 
 # Clean Code :
 [Clean_Code](https://github.com/DdizzyMe/Mario-Project/blob/e0056be050eb60842abb5380c976039a44f2493e/cleandcodepdf.pdf)
+
+# UML :
+UML diagram provides a visual representation of thr structure and function and interaction of the mario game.
+The Diagram helps developers to understand the functionality and usability of the game.
+
+[UML](https://github.com/DdizzyMe/Mario-Project/blob/d602abdbfb32c60edbf1e33b8571417a00ee3753/uml%20diagram.png)
