@@ -31,6 +31,9 @@ The Diagram helps developers to understand the functionality and usability of th
 # DDD :
 [DDD File](https://github.com/DdizzyMe/Mario-Project/blob/6bcda51e22d36b42c83472ba85dc8dcea9188714/DDD.pdf)
 
+# Analysis Report :
+[File](https://github.com/DdizzyMe/Mario-Project/blob/88d874313c77d025ab0e48ac2b6e9851f78b548e/analysis%20report%20mario%20(1).pdf) 
+
 # IDE :
 [Visual Studio](https://code.visualstudio.com/)
 
